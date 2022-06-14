@@ -2677,6 +2677,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/start-1 (1)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>第一个动作，请看我的示范！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">第一个动作，请看我的示范！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/start-2</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>

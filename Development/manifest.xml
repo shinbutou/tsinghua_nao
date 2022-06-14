@@ -5,12 +5,14 @@
  </names>
  <supportedLanguages>
   <language>en_US</language>
+  <language>zh_CN</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
+  <language>zh_CN</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="behavior_1">
+  <behaviorContent path="main_mandarin">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

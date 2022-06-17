@@ -1,2 +1,2 @@
 # ReadMe
-The repository is dedicated to the robotic humanoid NAO
+The repository is dedicated to the  robotic humanoid NAO

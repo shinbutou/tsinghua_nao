@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="development-c9b30b">
+<package version="0.0.0" uuid="learningtest-46da5e">
  <names>
-  <name lang="en_US">Development</name>
+  <name lang="en_US">Untitled</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
@@ -12,7 +12,8 @@
   <language>zh_CN</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="main_mandarin">
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

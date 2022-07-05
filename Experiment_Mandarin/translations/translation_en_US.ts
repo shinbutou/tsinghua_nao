@@ -2901,6 +2901,33 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_再示范一次</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>需要我再示范一次吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">需要我再示范一次吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_请再说一次</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_练习动作/askAgain</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -2921,19 +2948,17 @@
     <context>
         <name>behavior_1/behavior.xar:/_练习动作/notShy</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，试试看！</translation>
+            <translation type="obsolete">别害羞，试试看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_练习动作/oneMore?</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>需要我再示范一次吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">需要我再示范一次吗？</translation>
+            <translation type="obsolete">需要我再示范一次吗？</translation>
         </message>
     </context>
     <context>
@@ -2957,10 +2982,9 @@
     <context>
         <name>behavior_1/behavior.xar:/_练习动作/s再说一次</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
             <comment>Text</comment>
-            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>

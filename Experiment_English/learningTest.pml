@@ -8,7 +8,7 @@
         <Dialog name="ExampleDialog" src="behavior_1/ExampleDialog/ExampleDialog.dlg" />
     </Dialogs>
     <Resources>
-        <File name="M5000043Jqer30mZYw" src="M5000043Jqer30mZYw.mp3" />
+        <File name="M5000043Jqer30mZYw" src="dancingBGM.mp3" />
         <File name="vacuum1" src="behavior_1/vacuum1.ogg" />
         <File name="heaven1" src="behavior_1/behavior_1/heaven1.ogg" />
         <File name="camera1" src="behavior_1/camera1.ogg" />

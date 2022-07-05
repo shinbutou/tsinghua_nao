@@ -14,7 +14,7 @@
         <name>behavior_1/behavior.xar:/Action 1 Start</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>This is the first movement, please see me demonstrating!</source>
+            <source>This is the first movement, please watch me demonstrate!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -32,7 +32,7 @@
         <name>behavior_1/behavior.xar:/Action 2 Start</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>This is the second movement, please see me demonstrating!</source>
+            <source>This is the second movement, please watch me demonstrate!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -50,7 +50,7 @@
         <name>behavior_1/behavior.xar:/Action 3 Start</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>This is the third movement, please see me demonstrating!</source>
+            <source>This is the third movement, please watch me demonstrate!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -68,7 +68,7 @@
         <name>behavior_1/behavior.xar:/Action 4 Start</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>This is the last movement, please see me demonstrating!</source>
+            <source>This is the last movement, please watch me demonstrate!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -407,25 +407,25 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/Concluding</name>
+        <name>behavior_1/behavior.xar:/Practice/Concluding</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>很好，练习任务已经完成！我相信你已经熟悉了流程，我们可以开始正式任务了！</source>
+            <source>Alright, that was all for the warm up session. I believe you have now understood the process. We can proceed with the main practices.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/DoItAgain</name>
+        <name>behavior_1/behavior.xar:/Practice/DoItAgain</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>好的，已经完成两遍了！最后一遍，你自己做一次！</source>
+            <source>Okay, you have done it twice already. Try to do it by yourself one last time.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/DoItAgain?</name>
+        <name>behavior_1/behavior.xar:/Practice/DoItAgain?</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
@@ -434,61 +434,61 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/DoItYourself</name>
+        <name>behavior_1/behavior.xar:/Practice/DoItYourself</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>那接下来请你做一遍！</source>
+            <source>Next, please try doing it by yourself!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/DontBeShy</name>
+        <name>behavior_1/behavior.xar:/Practice/DontBeShy</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，试试看！</source>
+            <source>Don't be shy, have a try!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/RepeatPlease</name>
+        <name>behavior_1/behavior.xar:/Practice/RepeatPlease</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <source>Sorry, I don't seem to get it clearly. Could you say it again?</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/ShowAgain?</name>
+        <name>behavior_1/behavior.xar:/Practice/ShowAgain?</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>那我再示范一次！</source>
+            <source>I shall demonstrate again.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>需要我再示范一次吗？</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/Practices/TogetherAgain</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>好的，你已经单独做了一遍！接下来，第二遍，我们一起做一次！</source>
+            <source>Do you need me to demonstrate again?</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Practices/WarmUp</name>
+        <name>behavior_1/behavior.xar:/Practice/TogetherAgain</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>我们先来做一个热身动作，请看我的示范！</source>
+            <source>Okay, you have done it yourself once. We will do it together this time.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Practice/WarmUp</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>We will do a warm up session first, please watch me demonstrate!</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>

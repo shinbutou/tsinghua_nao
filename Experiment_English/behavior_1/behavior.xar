@@ -3825,7 +3825,7 @@ class MyClass(GeneratedClass):
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram scale="118.921">
-                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="900" y="213">
+                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="722" y="54">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -6029,7 +6029,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="257" y="446">
+                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="237" y="900">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -6096,7 +6096,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Play Sound" id="18" localization="8" tooltip="Play a sound file. Select the file in parameters. The format of the file can be wav or ogg (on virtual robot) and also mp3 (on a real robot).&#x0A;&#x0A;Note: There can be some delay to play ogg or mp3 (on a robot) files. We advise you to use wav if&#x0A;you want a fast play of the file." x="64" y="195">
+                      <Box name="Play Sound" id="18" localization="8" tooltip="Play a sound file. Select the file in parameters. The format of the file can be wav or ogg (on virtual robot) and also mp3 (on a real robot).&#x0A;&#x0A;Note: There can be some delay to play ogg or mp3 (on a robot) files. We advise you to use wav if&#x0A;you want a fast play of the file." x="145" y="167">
                         <bitmap>media/images/box/interaction/play_music.png</bitmap>
                         <script language="4">
                           <content>
@@ -6217,7 +6217,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="Audio player" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="418" y="146">
+                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="255" y="318">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -6284,7 +6284,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="428" y="272">
+                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="447" y="344">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -6324,7 +6324,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="3Third" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="600" y="144">
+                      <Box name="3Third" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="258" y="493">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -6391,7 +6391,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="731" y="285">
+                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="696" y="546">
                         <bitmap>media/images/box/interaction/target_face.png</bitmap>
                         <script language="4">
                           <content>
@@ -6557,7 +6557,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                         <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                       </Box>
-                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="393" y="442">
+                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="373" y="896">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -6624,7 +6624,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="M左右手慢动作" id="11" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="189" y="149">
+                      <Box name="M左右手慢动作" id="11" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="318" y="768">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -7425,7 +7425,7 @@ class MyClass(GeneratedClass):
                           </ActuatorList>
                         </Timeline>
                       </Box>
-                      <Box name="M左右手慢动作 (1)" id="2" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="547" y="354">
+                      <Box name="M左右手慢动作 (1)" id="2" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="638" y="385">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -8226,7 +8226,7 @@ class MyClass(GeneratedClass):
                           </ActuatorList>
                         </Timeline>
                       </Box>
-                      <Box name="3Positive" id="6" localization="8" tooltip="Say the text received on its input." x="806" y="21">
+                      <Box name="3Positive" id="6" localization="8" tooltip="Say the text received on its input." x="510" y="86">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8282,7 +8282,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="2Positive" id="8" localization="8" tooltip="Say the text received on its input." x="587" y="19">
+                      <Box name="2Positive" id="8" localization="8" tooltip="Say the text received on its input." x="74" y="487">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8338,7 +8338,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="1Positive" id="26" localization="8" tooltip="Say the text received on its input." x="372" y="20">
+                      <Box name="1Positive" id="26" localization="8" tooltip="Say the text received on its input." x="66" y="306">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8394,7 +8394,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="136" y="447">
+                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="116" y="901">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8461,7 +8461,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="t请调位置" id="7" localization="8" tooltip="Say some text with animations. The text can be localized." x="692" y="450">
+                      <Box name="t请调位置" id="7" localization="8" tooltip="Say some text with animations. The text can be localized." x="567" y="872">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8528,7 +8528,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="j继续" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="813" y="450">
+                      <Box name="j继续" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="688" y="872">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8595,7 +8595,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="SaySTH" id="14" localization="8" tooltip="" x="924" y="452">
+                      <Box name="SaySTH" id="14" localization="8" tooltip="" x="799" y="874">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -8733,7 +8733,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="197" y="324">
+                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="177" y="778">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -8800,7 +8800,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="724" y="166">
+                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="467" y="523">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -10053,7 +10053,7 @@ class MyClass(GeneratedClass):
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram scale="100">
-                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="1019" y="169">
+                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="862" y="71">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -11213,7 +11213,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="1Positive" id="26" localization="8" tooltip="Say the text received on its input." x="428" y="24">
+                      <Box name="1Positive" id="26" localization="8" tooltip="Say the text received on its input." x="97" y="370">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11269,7 +11269,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="227" y="443">
+                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="120" y="1084">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11457,7 +11457,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="Audio player" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="476" y="152">
+                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="328" y="392">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11524,7 +11524,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="516" y="287">
+                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="548" y="411">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -11564,7 +11564,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="3Third" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="726" y="160">
+                      <Box name="3Third" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="364" y="613">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11631,7 +11631,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="948" y="285">
+                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="850" y="682">
                         <bitmap>media/images/box/interaction/target_face.png</bitmap>
                         <script language="4">
                           <content>
@@ -11797,7 +11797,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                         <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                       </Box>
-                      <Box name="2Positive" id="8" localization="8" tooltip="Say the text received on its input." x="677" y="24">
+                      <Box name="2Positive" id="8" localization="8" tooltip="Say the text received on its input." x="104" y="578">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11853,7 +11853,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="3Positive" id="6" localization="8" tooltip="Say the text received on its input." x="911" y="29">
+                      <Box name="3Positive" id="6" localization="8" tooltip="Say the text received on its input." x="589" y="112">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11909,7 +11909,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="369" y="451">
+                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="262" y="1092">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -11976,7 +11976,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="sayText" id="11" localization="8" tooltip="Say the text received on its input." x="294" y="630">
+                      <Box name="sayText" id="11" localization="8" tooltip="Say the text received on its input." x="550" y="1094">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -12032,7 +12032,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="504" y="456">
+                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="397" y="1097">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -12099,7 +12099,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="t请调位置" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="772" y="455">
+                      <Box name="t请调位置" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="761" y="1077">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -12166,7 +12166,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="j继续" id="14" localization="8" tooltip="Say some text with animations. The text can be localized." x="893" y="455">
+                      <Box name="j继续" id="14" localization="8" tooltip="Say some text with animations. The text can be localized." x="882" y="1077">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -12233,7 +12233,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="SaySTH" id="15" localization="8" tooltip="" x="1004" y="457">
+                      <Box name="SaySTH" id="15" localization="8" tooltip="" x="993" y="1079">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -12371,7 +12371,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="116" y="310">
+                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="104" y="867">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -12438,7 +12438,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="814" y="255">
+                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="606" y="636">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -12517,7 +12517,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="All motors" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="C叉腰" id="7" localization="8" tooltip="" x="342" y="308">
+                      <Box name="C叉腰" id="7" localization="8" tooltip="" x="305" y="866">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -13075,7 +13075,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="C叉腰 (1)" id="2" localization="8" tooltip="" x="679" y="386">
+                      <Box name="C叉腰 (1)" id="2" localization="8" tooltip="" x="806" y="439">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -13663,7 +13663,7 @@ class MyClass(GeneratedClass):
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram scale="100">
-                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="1078" y="210">
+                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="918" y="106">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -14686,7 +14686,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="1Negative" id="26" localization="8" tooltip="Say the text received on its input." x="446" y="31">
+                      <Box name="1Negative" id="26" localization="8" tooltip="Say the text received on its input." x="69" y="350">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -14742,7 +14742,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="119" y="335">
+                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="112" y="904">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -14930,7 +14930,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="Audio player" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="545" y="162">
+                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="302" y="377">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -14997,7 +14997,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="557" y="284">
+                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="519" y="394">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -15037,7 +15037,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="3Third" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="746" y="172">
+                      <Box name="3Third" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="329" y="586">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15104,7 +15104,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="888" y="301">
+                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="790" y="666">
                         <bitmap>media/images/box/interaction/target_face.png</bitmap>
                         <script language="4">
                           <content>
@@ -15270,7 +15270,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                         <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                       </Box>
-                      <Box name="2Negative" id="8" localization="8" tooltip="Say the text received on its input." x="694" y="18">
+                      <Box name="2Negative" id="8" localization="8" tooltip="Say the text received on its input." x="86" y="550">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15326,7 +15326,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="3Negative" id="6" localization="8" tooltip="Say the text received on its input." x="981" y="24">
+                      <Box name="3Negative" id="6" localization="8" tooltip="Say the text received on its input." x="673" y="161">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15382,7 +15382,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="262" y="340">
+                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="255" y="909">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15449,7 +15449,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="393" y="338">
+                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="386" y="907">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15516,7 +15516,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="t请调位置" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="767" y="426">
+                      <Box name="t请调位置" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="687" y="983">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15583,7 +15583,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="j继续" id="11" localization="8" tooltip="Say some text with animations. The text can be localized." x="903" y="423">
+                      <Box name="j继续" id="11" localization="8" tooltip="Say some text with animations. The text can be localized." x="823" y="980">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15650,7 +15650,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="SaySTH" id="14" localization="8" tooltip="" x="1031" y="428">
+                      <Box name="SaySTH" id="14" localization="8" tooltip="" x="951" y="985">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -15788,7 +15788,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="161" y="477">
+                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="154" y="1046">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -15855,7 +15855,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="872" y="169">
+                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="554" y="622">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -15934,7 +15934,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="All motors" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="S甩手臂" id="16" localization="8" tooltip="" x="320" y="208">
+                      <Box name="S甩手臂" id="16" localization="8" tooltip="" x="350" y="1052">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -16355,7 +16355,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="S甩手臂 (1)" id="2" localization="8" tooltip="" x="605" y="441">
+                      <Box name="S甩手臂 (1)" id="2" localization="8" tooltip="" x="746" y="465">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -16806,7 +16806,7 @@ class MyClass(GeneratedClass):
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram scale="100">
-                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="1091" y="171">
+                      <Box name="Wait (1)" id="12" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="894" y="71">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -18035,7 +18035,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="1Negative" id="26" localization="8" tooltip="Say the text received on its input." x="475" y="49">
+                      <Box name="1Negative" id="26" localization="8" tooltip="Say the text received on its input." x="92" y="378">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -18091,7 +18091,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="287" y="193">
+                      <Box name="notShy" id="20" localization="8" tooltip="Say some text with animations. The text can be localized." x="280" y="794">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -18279,7 +18279,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="Audio player" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="552" y="191">
+                      <Box name="2Second" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="331" y="378">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -18346,7 +18346,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="556" y="372">
+                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="527" y="387">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -18386,7 +18386,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="781" y="324">
+                      <Box name="People Tracker" id="19" localization="-1" tooltip="This box makes the robot track people with different modes." x="747" y="630">
                         <bitmap>media/images/box/interaction/target_face.png</bitmap>
                         <script language="4">
                           <content>
@@ -18552,7 +18552,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                         <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                       </Box>
-                      <Box name="2Negative" id="8" localization="8" tooltip="Say the text received on its input." x="697" y="49">
+                      <Box name="2Negative" id="8" localization="8" tooltip="Say the text received on its input." x="124" y="546">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -18608,7 +18608,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="3Negative" id="6" localization="8" tooltip="Say the text received on its input." x="962" y="42">
+                      <Box name="3Negative" id="6" localization="8" tooltip="Say the text received on its input." x="661" y="72">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -18664,7 +18664,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Speed (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="50" max="200" tooltip="Changes the speed of the voice.&#x0A;&#x0A;Note: For a better effect, you can compensate this parameter with the voice&#x0A;shaping parameter. For example, if you want to increase by 20% the speed, you&#x0A;will have to decrease by 20% the voice shaping to keep a constant average&#x0A;speed." id="6" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="296" y="511">
+                      <Box name="B要求重新做" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="289" y="1112">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -18731,7 +18731,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Disco左右手甩4次" id="23" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="303" y="359">
+                      <Box name="Disco左右手甩4次" id="23" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="296" y="960">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -19358,7 +19358,7 @@ class MyClass(GeneratedClass):
                         <Resource name="Standing" type="Lock" timeout="1" />
                         <Resource name="All motors" type="Lock" timeout="1" />
                       </Box>
-                      <Box name="Disco左右手甩4次 (1)" id="2" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="580" y="506">
+                      <Box name="Disco左右手甩4次 (1)" id="2" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="683" y="431">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -19985,7 +19985,7 @@ class MyClass(GeneratedClass):
                         <Resource name="Standing" type="Lock" timeout="1" />
                         <Resource name="All motors" type="Lock" timeout="1" />
                       </Box>
-                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="107" y="506">
+                      <Box name="s再说一次" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="100" y="1107">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20052,7 +20052,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="t请调位置" id="7" localization="8" tooltip="Say some text with animations. The text can be localized." x="743" y="465">
+                      <Box name="t请调位置" id="7" localization="8" tooltip="Say some text with animations. The text can be localized." x="680" y="1076">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20119,7 +20119,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="j继续" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="864" y="465">
+                      <Box name="j继续" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="801" y="1076">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20186,7 +20186,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="SaySTH" id="14" localization="8" tooltip="" x="1001" y="463">
+                      <Box name="SaySTH" id="14" localization="8" tooltip="" x="938" y="1074">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -20324,7 +20324,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="107" y="343">
+                      <Box name="concentrate" id="24" localization="8" tooltip="Say some text with animations. The text can be localized." x="100" y="944">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20391,7 +20391,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="11" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="899" y="232">
+                      <Box name="Stand Up" id="11" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="524" y="609">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -20470,7 +20470,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="All motors" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="3Third" id="15" localization="8" tooltip="Say some text. The text can be localized." x="767" y="179">
+                      <Box name="3Third" id="15" localization="8" tooltip="Say some text. The text can be localized." x="339" y="572">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20557,7 +20557,7 @@ class MyClass(GeneratedClass):
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram scale="100">
-                      <Box name="1-Z总结" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="79" y="37">
+                      <Box name="1-Z总结" id="5" localization="8" tooltip="Say some text with animations. The text can be localized." x="154" y="53">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20624,7 +20624,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="2-自我评价" id="1" localization="8" tooltip="Say some text with animations. The text can be localized." x="154" y="213">
+                      <Box name="2-自我评价" id="1" localization="8" tooltip="Say some text with animations. The text can be localized." x="353" y="76">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20691,7 +20691,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="3-自我归因" id="2" localization="8" tooltip="Say some text with animations. The text can be localized." x="299" y="67">
+                      <Box name="3-自我归因" id="2" localization="8" tooltip="Say some text with animations. The text can be localized." x="120" y="308">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20758,7 +20758,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="4-询问满意度" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="525" y="68">
+                      <Box name="4-询问满意度" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="137" y="519">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20825,7 +20825,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="6-再见" id="6" localization="8" tooltip="Say some text with animations. The text can be localized." x="924" y="84">
+                      <Box name="6-再见" id="6" localization="8" tooltip="Say some text with animations. The text can be localized." x="706" y="207">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -20892,7 +20892,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco." id="7" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="192" y="364">
+                      <Box name="Speech Reco." id="7" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="566" y="87">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -20975,7 +20975,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco. (1)" id="8" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="374" y="267">
+                      <Box name="Speech Reco. (1)" id="8" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="389" y="338">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -21058,7 +21058,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco. (2)" id="9" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="595" y="297">
+                      <Box name="Speech Reco. (2)" id="9" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="398" y="528">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -21141,7 +21141,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="10" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="1096" y="277">
+                      <Box name="Stand Up" id="10" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="901" y="158">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -21220,7 +21220,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="All motors" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="5-询问喜爱度" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="710" y="79">
+                      <Box name="5-询问喜爱度" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="150" y="694">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21287,7 +21287,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco. (3)" id="11" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="780" y="308">
+                      <Box name="Speech Reco. (3)" id="11" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="430" y="721">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -21370,7 +21370,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="s大声一点" id="12" localization="8" tooltip="Say some text with animations. The text can be localized." x="421" y="456">
+                      <Box name="s大声一点" id="12" localization="8" tooltip="Say some text with animations. The text can be localized." x="104" y="1100">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21437,7 +21437,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="s再说一次" id="13" localization="8" tooltip="Say some text with animations. The text can be localized." x="578" y="456">
+                      <Box name="s再说一次" id="13" localization="8" tooltip="Say some text with animations. The text can be localized." x="296" y="1096">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21504,7 +21504,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="t请调位置" id="14" localization="8" tooltip="Say some text with animations. The text can be localized." x="829" y="464">
+                      <Box name="t请调位置" id="14" localization="8" tooltip="Say some text with animations. The text can be localized." x="476" y="1093">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21571,7 +21571,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="j继续" id="15" localization="8" tooltip="Say some text with animations. The text can be localized." x="950" y="464">
+                      <Box name="j继续" id="15" localization="8" tooltip="Say some text with animations. The text can be localized." x="639" y="1091">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21638,7 +21638,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="SaySTH" id="16" localization="8" tooltip="" x="1061" y="466">
+                      <Box name="SaySTH" id="16" localization="8" tooltip="" x="824" y="1088">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>

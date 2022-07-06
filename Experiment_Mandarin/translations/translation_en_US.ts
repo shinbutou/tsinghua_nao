@@ -522,19 +522,44 @@
     <context>
         <name>behavior_1/behavior.xar:/C-Positive/B要求重新做</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这样不可以，请重新做一次吧！</source>
             <comment>Text</comment>
-            <translation type="unfinished">这样不可以，请重新做一次吧！</translation>
+            <translation type="obsolete">这样不可以，请重新做一次吧！</translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/C-Positive/RAction/askAgain</name>
+        <name>behavior_1/behavior.xar:/C-Positive/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那请你做一遍试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那请你做一遍试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
             <comment>Text</comment>
             <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/RAction/askAgain</name>
+        <message>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
         </message>
     </context>
     <context>
@@ -548,50 +573,21 @@
     <context>
         <name>behavior_1/behavior.xar:/C-Positive/RAction/noAgain (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那请你做一遍试试看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那请你做一遍试试看！</translation>
+            <translation type="obsolete">好的，那请你做一遍试试看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/C-Positive/RAction/yesAgain</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/C-Positive/concentrate</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，再做一次看看！要认真一点喔！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/C-Positive/j继续</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>谢谢你！我们可以继续了！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/C-Positive/notShy</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，试试看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">别害羞，试试看！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/C-Positive/s再说一次</name>
+        <name>behavior_1/behavior.xar:/C-Positive/_再说一次</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
@@ -600,12 +596,88 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/C-Positive/t请调位置</name>
+        <name>behavior_1/behavior.xar:/C-Positive/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，请重新做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">这样不可以，请重新做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/_请调位置</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
             <translation type="unfinished">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/concentrate</name>
+        <message>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/j继续</name>
+        <message>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/notShy</name>
+        <message>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/s再说一次</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/C-Positive/t请调位置</name>
+        <message>
+            <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -662,12 +734,38 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/D-Negative/RAction/askAgain</name>
+        <name>behavior_1/behavior.xar:/D-Negative/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那请你做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那请你做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
             <comment>Text</comment>
             <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/RAction/askAgain</name>
+        <message>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
         </message>
     </context>
     <context>
@@ -678,10 +776,9 @@
             <translation type="obsolete">好的，你来做一次吧！</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那请你做一次吧！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那请你做一次吧！</translation>
+            <translation type="obsolete">好的，那请你做一次吧！</translation>
         </message>
     </context>
     <context>
@@ -692,10 +789,9 @@
             <translation type="obsolete">我再做一遍，请你认真观察喔！</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>
@@ -826,6 +922,33 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/M-Positive/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/M-Positive/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>那接下来请你做一遍！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">那接下来请你做一遍！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/M-Positive/RAction/_问再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/M-Positive/RAction/askAgain</name>
         <message>
             <source>看清楚了么？需要我再做一遍么？</source>
@@ -836,19 +959,17 @@
     <context>
         <name>behavior_1/behavior.xar:/M-Positive/RAction/askAgain (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/M-Positive/RAction/noAgain</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>那接下来请你做一遍！</source>
             <comment>Text</comment>
-            <translation type="unfinished">那接下来请你做一遍！</translation>
+            <translation type="obsolete">那接下来请你做一遍！</translation>
         </message>
     </context>
     <context>
@@ -859,10 +980,9 @@
             <translation type="obsolete">那我再示范一次！</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>
@@ -1796,7 +1916,25 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/S-Negative/RAction/askAgain</name>
+        <name>behavior_1/behavior.xar:/S-Negative/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/S-Negative/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>那请你做一遍看看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">那请你做一遍看看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/S-Negative/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
@@ -1805,12 +1943,19 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/S-Negative/RAction/askAgain</name>
+        <message>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/S-Negative/RAction/noAgain</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>那请你做一遍看看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">那请你做一遍看看！</translation>
+            <translation type="obsolete">那请你做一遍看看！</translation>
         </message>
     </context>
     <context>
@@ -1821,10 +1966,9 @@
             <translation type="obsolete">我再做一遍，请你认真观察喔！</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>

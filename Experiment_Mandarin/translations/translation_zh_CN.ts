@@ -119,15 +119,6 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/D-Negative/B要求重新做</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>这样不可以，再认真做一次！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
         <name>behavior_1/behavior.xar:/D-Negative/RAction/_再做一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -155,34 +146,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/D-Negative/concentrate</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，再做一次看看！要认真一点喔！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/D-Negative/j继续</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>谢谢你！我们可以继续了！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/D-Negative/notShy</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，试试看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/D-Negative/s再说一次</name>
+        <name>behavior_1/behavior.xar:/D-Negative/_再说一次</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
@@ -191,7 +155,43 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/D-Negative/t请调位置</name>
+        <name>behavior_1/behavior.xar:/D-Negative/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/D-Negative/_请调位置</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
@@ -213,15 +213,6 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这个动作的最后一遍，你自己完成！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/M-Positive/B要求重新做</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>这样不可以，再重新做一次吧！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -254,34 +245,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/M-Positive/concentrate</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，再做一次看看！要认真一点喔！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/M-Positive/j继续</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>谢谢你！我们可以继续了！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/M-Positive/notShy</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，试试看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/M-Positive/s再说一次</name>
+        <name>behavior_1/behavior.xar:/M-Positive/_再说一次</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
@@ -290,7 +254,43 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/M-Positive/t请调位置</name>
+        <name>behavior_1/behavior.xar:/M-Positive/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/M-Positive/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/M-Positive/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，再重新做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/M-Positive/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/M-Positive/_请调位置</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，麻烦你帮我调整一下位置可以吗？</source>
@@ -325,15 +325,6 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/S-Negative/B要求重新做</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>这样不可以，再认真做一次！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
         <name>behavior_1/behavior.xar:/S-Negative/RAction/_再做一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -361,34 +352,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/S-Negative/concentrate</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，再做一次看看！要认真一点喔！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/S-Negative/j继续</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>谢谢你！我们可以继续了！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/S-Negative/notShy</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，试试看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/S-Negative/s再说一次</name>
+        <name>behavior_1/behavior.xar:/S-Negative/_再说一次</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
@@ -397,7 +361,43 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/S-Negative/t请调位置</name>
+        <name>behavior_1/behavior.xar:/S-Negative/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/S-Negative/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/S-Negative/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/S-Negative/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/S-Negative/_请调位置</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>

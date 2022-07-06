@@ -3880,7 +3880,7 @@ class MyClass(GeneratedClass):
                           <BehaviorLayer name="behavior_layer1">
                             <BehaviorKeyframe name="keyframe1" index="1">
                               <Diagram scale="118.921">
-                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="176" y="309">
+                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="187" y="252">
                                   <bitmap>media/images/box/wait.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -3920,7 +3920,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                   <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                                 </Box>
-                                <Box name="M左右手慢动作" id="1" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="261" y="21">
+                                <Box name="M左右手慢动作" id="1" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="526" y="91">
                                   <bitmap>media/images/box/movement/move.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -4721,7 +4721,7 @@ class MyClass(GeneratedClass):
                                     </ActuatorList>
                                   </Timeline>
                                 </Box>
-                                <Box name="askAgain (1)" id="22" localization="8" tooltip="Say some text. The text can be localized." x="391" y="184">
+                                <Box name="askAgain (1)" id="22" localization="8" tooltip="Say some text. The text can be localized." x="825" y="86">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -4778,7 +4778,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="看清楚了么？需要我再做一遍么？" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="M左右手慢动作 (1)" id="2" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="393" y="316">
+                                <Box name="M左右手慢动作 (1)" id="2" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="196" y="599">
                                   <bitmap>media/images/box/movement/move.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -5579,7 +5579,7 @@ class MyClass(GeneratedClass):
                                     </ActuatorList>
                                   </Timeline>
                                 </Box>
-                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="544" y="62">
+                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="162" y="52">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -5636,7 +5636,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="好的，那我再做一次给你看！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="700" y="58">
+                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="318" y="48">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -5715,7 +5715,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up (1)" id="3" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="390" y="66">
+                                <Box name="Stand Up (1)" id="3" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="677" y="102">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -5794,7 +5794,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="People Tracker" id="5" localization="-1" tooltip="This box makes the robot track people with different modes." x="814" y="172">
+                                <Box name="People Tracker" id="5" localization="-1" tooltip="This box makes the robot track people with different modes." x="701" y="646">
                                   <bitmap>media/images/box/interaction/target_face.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -5960,7 +5960,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                                   <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                                 </Box>
-                                <Box name="noAgain" id="4" localization="8" tooltip="Say some text. The text can be localized." x="668" y="300">
+                                <Box name="noAgain" id="4" localization="8" tooltip="Say some text. The text can be localized." x="446" y="601">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10108,7 +10108,7 @@ class MyClass(GeneratedClass):
                           <BehaviorLayer name="behavior_layer1">
                             <BehaviorKeyframe name="keyframe1" index="1">
                               <Diagram scale="118.921">
-                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="120" y="173">
+                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="285" y="245">
                                   <bitmap>media/images/box/wait.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10148,7 +10148,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                   <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                                 </Box>
-                                <Box name="askAgain" id="22" localization="8" tooltip="Say some text. The text can be localized." x="469" y="184">
+                                <Box name="askAgain" id="22" localization="8" tooltip="Say some text. The text can be localized." x="752" y="141">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10205,7 +10205,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="看清楚了么？需要我再做一遍么？" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="544" y="13">
+                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="151" y="22">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10262,7 +10262,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="好的，那我再做一次给你看！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="700" y="9">
+                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="307" y="18">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10341,7 +10341,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up (1)" id="1" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="333" y="218">
+                                <Box name="Stand Up (1)" id="1" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="590" y="251">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10420,7 +10420,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="People Tracker (1)" id="2" localization="-1" tooltip="This box makes the robot track people with different modes." x="725" y="196">
+                                <Box name="People Tracker (1)" id="2" localization="-1" tooltip="This box makes the robot track people with different modes." x="813" y="676">
                                   <bitmap>media/images/box/interaction/target_face.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10586,7 +10586,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                                   <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                                 </Box>
-                                <Box name="noAgain (1)" id="4" localization="8" tooltip="Say some text. The text can be localized." x="673" y="330">
+                                <Box name="noAgain (1)" id="4" localization="8" tooltip="Say some text. The text can be localized." x="554" y="554">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -10643,7 +10643,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="好的，那请你做一遍试试看！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="C叉腰" id="3" localization="8" tooltip="" x="237" y="27">
+                                <Box name="C叉腰" id="3" localization="8" tooltip="" x="451" y="146">
                                   <bitmap>media/images/box/box-diagram.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -13718,7 +13718,7 @@ class MyClass(GeneratedClass):
                           <BehaviorLayer name="behavior_layer1">
                             <BehaviorKeyframe name="keyframe1" index="1">
                               <Diagram scale="118.921">
-                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="129" y="190">
+                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="312" y="286">
                                   <bitmap>media/images/box/wait.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -13758,7 +13758,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                   <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                                 </Box>
-                                <Box name="askAgain" id="22" localization="8" tooltip="Say some text. The text can be localized." x="457" y="261">
+                                <Box name="askAgain" id="22" localization="8" tooltip="Say some text. The text can be localized." x="808" y="352">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -13815,7 +13815,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="看清楚了么？需要我再做一遍么？" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="536" y="4">
+                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="177" y="31">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -13872,7 +13872,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="好的，那我再做一次给你看！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="768" y="80">
+                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="361" y="49">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -13951,7 +13951,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up (1)" id="2" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="312" y="183">
+                                <Box name="Stand Up (1)" id="2" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="633" y="224">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -14030,7 +14030,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="People Tracker" id="5" localization="-1" tooltip="This box makes the robot track people with different modes." x="738" y="209">
+                                <Box name="People Tracker" id="5" localization="-1" tooltip="This box makes the robot track people with different modes." x="782" y="700">
                                   <bitmap>media/images/box/interaction/target_face.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -14196,7 +14196,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                                   <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                                 </Box>
-                                <Box name="noAgain" id="4" localization="8" tooltip="Say some text. The text can be localized." x="686" y="343">
+                                <Box name="noAgain" id="4" localization="8" tooltip="Say some text. The text can be localized." x="452" y="599">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -14253,7 +14253,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="那请你做一遍看看！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="S甩手臂" id="1" localization="8" tooltip="" x="223" y="24">
+                                <Box name="S甩手臂" id="1" localization="8" tooltip="" x="465" y="365">
                                   <bitmap>media/images/box/box-diagram.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -16861,7 +16861,7 @@ class MyClass(GeneratedClass):
                           <BehaviorLayer name="behavior_layer1">
                             <BehaviorKeyframe name="keyframe1" index="1">
                               <Diagram scale="118.921">
-                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="113" y="218">
+                                <Box name="Wait" id="16" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="202" y="229">
                                   <bitmap>media/images/box/wait.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -16901,7 +16901,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                   <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                                 </Box>
-                                <Box name="Disco左右手甩4次" id="23" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="264" y="0">
+                                <Box name="Disco左右手甩4次" id="23" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="469" y="169">
                                   <bitmap>media/images/box/movement/move.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -17528,7 +17528,7 @@ class MyClass(GeneratedClass):
                                   <Resource name="Standing" type="Lock" timeout="1" />
                                   <Resource name="All motors" type="Lock" timeout="1" />
                                 </Box>
-                                <Box name="askAgain" id="22" localization="8" tooltip="Say some text. The text can be localized." x="452" y="199">
+                                <Box name="askAgain" id="22" localization="8" tooltip="Say some text. The text can be localized." x="803" y="78">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -17585,7 +17585,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="看清楚了么？需要我再做一遍么？" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="603" y="53">
+                                <Box name="yesAgain" id="28" localization="8" tooltip="Say some text. The text can be localized." x="141" y="28">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -17642,7 +17642,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="好的，那我再做一次给你看！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up" id="1" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="759" y="49">
+                                <Box name="Stand Up" id="1" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="297" y="24">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -17721,7 +17721,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up (1)" id="2" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="316" y="141">
+                                <Box name="Stand Up (1)" id="2" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="639" y="134">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -17800,7 +17800,7 @@ class MyClass(GeneratedClass):
                                   </Timeline>
                                   <Resource name="All motors" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="People Tracker" id="5" localization="-1" tooltip="This box makes the robot track people with different modes." x="782" y="187">
+                                <Box name="People Tracker" id="5" localization="-1" tooltip="This box makes the robot track people with different modes." x="775" y="558">
                                   <bitmap>media/images/box/interaction/target_face.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -17966,7 +17966,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Theta (rad)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-3.14" max="3.14" tooltip="Wz angle of the vector robot-target the robot will try to maintain in move modes." id="14" />
                                   <Parameter name="Threshold Theta (rad)" inherits_from_parent="0" content_type="2" value="0.3" default_value="0.3" min="0.01" max="3.14" tooltip="Threshold of the angle of the vector robot-target above which the robot will move to track its target in move modes." id="15" />
                                 </Box>
-                                <Box name="noAgain" id="4" localization="8" tooltip="Say some text. The text can be localized." x="660" y="265">
+                                <Box name="noAgain" id="4" localization="8" tooltip="Say some text. The text can be localized." x="472" y="461">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -22344,7 +22344,7 @@ class MyClass(GeneratedClass):
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                      <Box name="M左右手慢动作" id="7" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="437" y="23">
+                      <Box name="M左右手慢动作" id="7" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="582" y="1001">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -23145,7 +23145,7 @@ class MyClass(GeneratedClass):
                           </ActuatorList>
                         </Timeline>
                       </Box>
-                      <Box name="Disco左右手甩4次" id="23" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="774" y="17">
+                      <Box name="Disco左右手甩4次" id="23" localization="8" tooltip="ID : #04B 0002&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- Disco" x="1044" y="999">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -23772,7 +23772,7 @@ class MyClass(GeneratedClass):
                         <Resource name="Standing" type="Lock" timeout="1" />
                         <Resource name="All motors" type="Lock" timeout="1" />
                       </Box>
-                      <Box name="S甩手臂" id="16" localization="8" tooltip="" x="269" y="29">
+                      <Box name="S甩手臂" id="16" localization="8" tooltip="" x="399" y="1006">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -24193,7 +24193,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="C叉腰" id="19" localization="8" tooltip="" x="621" y="20">
+                      <Box name="C叉腰" id="19" localization="8" tooltip="" x="825" y="1000">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -24751,7 +24751,7 @@ class MyClass(GeneratedClass):
                           </BehaviorLayer>
                         </Timeline>
                       </Box>
-                      <Box name="Workout" id="11" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="96" y="33">
+                      <Box name="Workout" id="11" localization="8" tooltip="This box is empty (contains a single motion layer with no motor position&#x0A;defined in it) and should be used to create any animation you would like." x="198" y="1001">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -27111,7 +27111,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="All motors" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="S屈膝" id="17" localization="8" tooltip="The robot goes from its current postition to the asked posture." x="956" y="45">
+                      <Box name="S屈膝" id="17" localization="8" tooltip="The robot goes from its current postition to the asked posture." x="714" y="320">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -27164,7 +27164,7 @@ class MyClass(GeneratedClass):
                         <Resource name="All motors" type="Lock" timeout="0" />
                         <Resource name="Stiffness" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="ShowFarDistanceLeft_01" id="12" localization="8" tooltip="ID : #01A 0015&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- There&#x0A;- Future&#x0A;- Left&#x0A;- Far&#x0A;&#x0A;===================&#x0A;&#x0A;Common dialog : No&#x0A;&#x0A;===================&#x0A;&#x0A;Start stance : LeanRight&#x0A;End stance : LeanRight" x="1091" y="95">
+                      <Box name="ShowFarDistanceLeft_01" id="12" localization="8" tooltip="ID : #01A 0015&#x0A;&#x0A;===================&#x0A;&#x0A;Tags : &#x0A;- There&#x0A;- Future&#x0A;- Left&#x0A;- Far&#x0A;&#x0A;===================&#x0A;&#x0A;Common dialog : No&#x0A;&#x0A;===================&#x0A;&#x0A;Start stance : LeanRight&#x0A;End stance : LeanRight" x="920" y="327">
                         <bitmap>media/images/box/movement/move.png</bitmap>
                         <script language="4">
                           <content>
@@ -27506,7 +27506,7 @@ class MyClass(GeneratedClass):
                         <Resource name="All motors" type="Lock" timeout="0" />
                         <Resource name="Stiffness" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="124" y="500">
+                      <Box name="PauseFourSec" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="107" y="646">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -27546,7 +27546,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="4" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="Wait (1)" id="1" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="380" y="525">
+                      <Box name="PauseFourSec" id="1" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="306" y="651">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -27586,7 +27586,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="4" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="Wait (2)" id="2" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="569" y="501">
+                      <Box name="PauseFourSec" id="2" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="496" y="646">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -27626,7 +27626,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="4" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="Wait (3)" id="3" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="761" y="493">
+                      <Box name="PauseFourSec" id="3" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="697" y="640">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -27666,7 +27666,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="4" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="Wait (4)" id="4" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="919" y="478">
+                      <Box name="PauseFourSec" id="4" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="916" y="636">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>

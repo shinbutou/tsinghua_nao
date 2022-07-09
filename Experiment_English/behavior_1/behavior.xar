@@ -13648,7 +13648,7 @@ class MyClass(GeneratedClass):
                 </BehaviorLayer>
               </Timeline>
             </Box>
-            <Box name="S-Negative" id="8" localization="8" tooltip="" x="348" y="584">
+            <Box name="S-Negative" id="8" localization="8" tooltip="" x="347" y="580">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -16791,7 +16791,7 @@ class MyClass(GeneratedClass):
                 </BehaviorLayer>
               </Timeline>
             </Box>
-            <Box name="D-Negative" id="4" localization="8" tooltip="" x="104" y="586">
+            <Box name="D-Negative" id="4" localization="8" tooltip="" x="110" y="585">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -20542,7 +20542,7 @@ class MyClass(GeneratedClass):
                 </BehaviorLayer>
               </Timeline>
             </Box>
-            <Box name="[Post] Discussion" id="10" localization="8" tooltip="" x="1019" y="778">
+            <Box name="[Post] Discussion" id="10" localization="8" tooltip="" x="1014" y="788">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -22329,7 +22329,7 @@ class MyClass(GeneratedClass):
               <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
               <Resource name="Speech" type="Lock" timeout="0" />
             </Box>
-            <Box name="Action" id="11" localization="8" tooltip="" x="822" y="59">
+            <Box name="Action" id="11" localization="8" tooltip="" x="985" y="19">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -25862,7 +25862,7 @@ class MyClass(GeneratedClass):
                         <Resource name="Standing" type="Lock" timeout="1" />
                         <Resource name="All motors" type="Lock" timeout="1" />
                       </Box>
-                      <Box name="T躺下" id="14" localization="8" tooltip="The robot goes from its current postition to the asked posture." x="427" y="176">
+                      <Box name="T躺下" id="14" localization="8" tooltip="The robot goes from its current postition to the asked posture." x="418" y="242">
                         <bitmap>media/images/box/box-diagram.png</bitmap>
                         <script language="4">
                           <content>
@@ -28135,7 +28135,7 @@ class MyClass(GeneratedClass):
               <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
               <Resource name="Speech" type="Lock" timeout="0" />
             </Box>
-            <Box name="SayText" id="26" localization="8" tooltip="Say the text received on its input." x="577" y="965">
+            <Box name="SayText" id="26" localization="8" tooltip="Say the text received on its input." x="576" y="973">
               <bitmap>media/images/box/interaction/say.png</bitmap>
               <script language="4">
                 <content>

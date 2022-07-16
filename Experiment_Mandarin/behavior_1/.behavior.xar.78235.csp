@@ -22329,7 +22329,7 @@ class MyClass(GeneratedClass):
               <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
               <Resource name="Speech" type="Lock" timeout="0" />
             </Box>
-            <Box name="Action" id="11" localization="8" tooltip="" x="788" y="53">
+            <Box name="_应可移除" id="11" localization="8" tooltip="" x="809" y="82">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>

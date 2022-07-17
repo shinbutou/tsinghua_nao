@@ -3433,6 +3433,94 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/2Second</name>
+        <message>
+            <source>还是我们一起做一遍吧！请看好我的动作！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">还是我们一起做一遍吧！请看好我的动作！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/3Third</name>
+        <message>
+            <source>再做一次试试看！最后一遍了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">再做一次试试看！最后一遍了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_再做一遍</name>
+        <message>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_请再一遍</name>
+        <message>
+            <source>那请你做一遍看看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">那请你做一遍看看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_问再一遍</name>
+        <message>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_再说一次</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_别害羞</name>
+        <message>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_继续</name>
+        <message>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_要求重新做</name>
+        <message>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这样不可以，再认真做一次！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_认真一点</name>
+        <message>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_请调位置</name>
+        <message>
+            <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_练习动作/Next</name>
         <message>
             <source>很好，练习任务已经完成！我相信你已经熟悉了流程，我们可以开始正式任务了！</source>

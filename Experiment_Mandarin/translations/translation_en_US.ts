@@ -3028,6 +3028,14 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_叉腰_正向/_反馈</name>
+        <message>
+            <source>这个动作的最后一遍，你自己完成！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这个动作的最后一遍，你自己完成！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_继续</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3397,6 +3405,14 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_左右手_正向/_反馈</name>
+        <message>
+            <source>这个动作的最后一遍，你自己完成！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这个动作的最后一遍，你自己完成！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_继续</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3489,6 +3505,14 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/_反馈</name>
+        <message>
+            <source>这个动作的最后一遍，你自己完成！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这个动作的最后一遍，你自己完成！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_甩手臂_负面/_继续</name>
         <message>
             <source>谢谢你！我们可以继续了！</source>
@@ -3544,6 +3568,14 @@
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
             <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_反馈</name>
+        <message>
+            <source>这个动作的最后一遍，你自己完成！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这个动作的最后一遍，你自己完成！</translation>
         </message>
     </context>
     <context>
@@ -3778,6 +3810,14 @@
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
             <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_迪斯可_负面/_反馈</name>
+        <message>
+            <source>这个动作的最后一遍，你自己完成！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这个动作的最后一遍，你自己完成！</translation>
         </message>
     </context>
     <context>

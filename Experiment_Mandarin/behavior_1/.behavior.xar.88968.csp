@@ -20971,7 +20971,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="3-自我归因" id="2" localization="8" tooltip="Say some text with animations. The text can be localized." x="119" y="278">
+                      <Box name="3-自我归因" id="2" localization="8" tooltip="Say some text with animations. The text can be localized." x="157" y="218">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21038,7 +21038,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="4-询问满意度" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="119" y="471">
+                      <Box name="4-询问满意度" id="4" localization="8" tooltip="Say some text with animations. The text can be localized." x="154" y="363">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21105,7 +21105,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="6-再见" id="6" localization="8" tooltip="Say some text with animations. The text can be localized." x="722" y="230">
+                      <Box name="6-再见" id="6" localization="8" tooltip="Say some text with animations. The text can be localized." x="169" y="651">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21255,7 +21255,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco. (1)" id="8" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="368" y="315">
+                      <Box name="Speech Reco. (1)" id="8" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="497" y="255">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -21338,7 +21338,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco. (2)" id="9" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="378" y="518">
+                      <Box name="Speech Reco. (2)" id="9" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="493" y="387">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -21421,7 +21421,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Enable word spotting" inherits_from_parent="0" content_type="0" value="0" default_value="0" tooltip="If this option is not activated the robot will only understand exact expressions. If it is, he will spot the exact expressions even in the middle of a sentence.&#x0A;&#x0A;!!Warning!! This option is only available with the speech recognition module using Nuance (ie in Atom version of the robot)." id="9" />
                         <Resource name="Speech recognition" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="10" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="930" y="117">
+                      <Box name="Stand Up" id="10" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="494" y="674">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -21500,7 +21500,7 @@ class MyClass(GeneratedClass):
                         </Timeline>
                         <Resource name="All motors" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="5-询问喜爱度" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="116" y="665">
+                      <Box name="5-询问喜爱度" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="152" y="500">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -21567,7 +21567,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Speech Reco. (3)" id="11" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="380" y="726">
+                      <Box name="Speech Reco. (3)" id="11" localization="8" tooltip="Recognize a word from a list of words set in the box parameters.&#x0A;&#x0A;V1.1.0&#x0A;" x="497" y="532">
                         <bitmap>media/images/box/interaction/ear.png</bitmap>
                         <script language="4">
                           <content>
@@ -28590,7 +28590,6 @@ class MyClass(GeneratedClass):
             <Link inputowner="27" indexofinput="2" outputowner="25" indexofoutput="3" />
             <Link inputowner="25" indexofinput="2" outputowner="0" indexofoutput="2" />
             <Link inputowner="19" indexofinput="2" outputowner="2" indexofoutput="4" />
-            <Link inputowner="20" indexofinput="2" outputowner="9" indexofoutput="4" />
           </Diagram>
         </BehaviorKeyframe>
       </BehaviorLayer>

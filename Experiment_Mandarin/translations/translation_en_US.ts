@@ -3081,61 +3081,13 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/askAgain</name>
+        <name>behavior_1/behavior.xar:/_实验介绍/_如说不需要</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>我说清楚了吗？需要我再重复一遍吗？</source>
+            <source>好的，那我们现在开始可以么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">我说清楚了吗？需要我再重复一遍吗？</translation>
+            <translation type="unfinished">好的，那我们现在开始可以么？</translation>
         </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/askIntro</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>接下来，要开始今天的实验了！现在需要我介绍一下实验的内容吗？</source>
-            <comment>Text</comment>
-            <translation type="unfinished">接下来，要开始今天的实验了！现在需要我介绍一下实验的内容吗？</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/expIntro</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>今天，我们的任务很简单，我会示范一些动作，你需要模仿我。每一个动作，你要做三遍！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">今天，我们的任务很简单，我会示范一些动作，你需要模仿我。每一个动作，你要做三遍！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/expIntro (1)</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>第一遍，我会先示范一个动作，这时候你要认真观察哦，然后由你自己单独做第一遍！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">第一遍，我会先示范一个动作，这时候你要认真观察哦，然后由你自己单独做第一遍！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/expIntro (2)</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/expIntro (3)</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>第三遍，由你自己单独展示一遍，我会观察你做得好不好。</source>
-            <comment>Text</comment>
-            <translation type="unfinished">第三遍，由你自己单独展示一遍，我会观察你做得好不好。</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/no</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>哎呀，这样呐！可是我还是得向你说明实验内容！</source>
@@ -3144,12 +3096,136 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/noAgain</name>
+        <name>behavior_1/behavior.xar:/_实验介绍/_如说需要</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>我会示范一些动作，你需要模仿我。每一个动作，你要做三遍；第一遍，我会先示范一个动作，这时候，你要认真观察！然后由你自己单独做第一遍！第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致！第三遍，由你自己单独展示一遍，我会观察你做得好不好。</source>
+            <comment>Text</comment>
+            <translation type="unfinished">我会示范一些动作，你需要模仿我。每一个动作，你要做三遍；第一遍，我会先示范一个动作，这时候，你要认真观察！然后由你自己单独做第一遍！第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致！第三遍，由你自己单独展示一遍，我会观察你做得好不好。</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>哎呀，这样呐！可是我还是得向你说明实验内容！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">哎呀，这样呐！可是我还是得向你说明实验内容！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_是否复述</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>我说清楚了吗？需要我再重复一遍吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">我说清楚了吗？需要我再重复一遍吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_是否解说</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>接下来，要开始今天的实验了！现在需要我介绍一下实验的内容吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">接下来，要开始今天的实验了！现在需要我介绍一下实验的内容吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_解说</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>今天，我们的任务很简单，我会示范一些动作，你需要模仿我。每一个动作，你要做三遍！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">今天，我们的任务很简单，我会示范一些动作，你需要模仿我。每一个动作，你要做三遍！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_解说一</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>第一遍，我会先示范一个动作，这时候你要认真观察哦，然后由你自己单独做第一遍！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">第一遍，我会先示范一个动作，这时候你要认真观察哦，然后由你自己单独做第一遍！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_解说三</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>第三遍，由你自己单独展示一遍，我会观察你做得好不好。</source>
+            <comment>Text</comment>
+            <translation type="unfinished">第三遍，由你自己单独展示一遍，我会观察你做得好不好。</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_解说二</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/askAgain</name>
+        <message>
+            <source>我说清楚了吗？需要我再重复一遍吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">我说清楚了吗？需要我再重复一遍吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/askIntro</name>
+        <message>
+            <source>接下来，要开始今天的实验了！现在需要我介绍一下实验的内容吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">接下来，要开始今天的实验了！现在需要我介绍一下实验的内容吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/expIntro</name>
+        <message>
+            <source>今天，我们的任务很简单，我会示范一些动作，你需要模仿我。每一个动作，你要做三遍！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">今天，我们的任务很简单，我会示范一些动作，你需要模仿我。每一个动作，你要做三遍！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/expIntro (1)</name>
+        <message>
+            <source>第一遍，我会先示范一个动作，这时候你要认真观察哦，然后由你自己单独做第一遍！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">第一遍，我会先示范一个动作，这时候你要认真观察哦，然后由你自己单独做第一遍！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/expIntro (2)</name>
+        <message>
+            <source>第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/expIntro (3)</name>
+        <message>
+            <source>第三遍，由你自己单独展示一遍，我会观察你做得好不好。</source>
+            <comment>Text</comment>
+            <translation type="obsolete">第三遍，由你自己单独展示一遍，我会观察你做得好不好。</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/no</name>
+        <message>
+            <source>哎呀，这样呐！可是我还是得向你说明实验内容！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">哎呀，这样呐！可是我还是得向你说明实验内容！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/noAgain</name>
+        <message>
             <source>好的，那我们现在开始可以么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我们现在开始可以么？</translation>
+            <translation type="obsolete">好的，那我们现在开始可以么？</translation>
         </message>
     </context>
     <context>
@@ -3164,14 +3240,85 @@
     <context>
         <name>behavior_1/behavior.xar:/_实验介绍/yesAgain</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>我会示范一些动作，你需要模仿我。每一个动作，你要做三遍；第一遍，我会先示范一个动作，这时候，你要认真观察！然后由你自己单独做第一遍！第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致！第三遍，由你自己单独展示一遍，我会观察你做得好不好。</source>
             <comment>Text</comment>
-            <translation type="unfinished">我会示范一些动作，你需要模仿我。每一个动作，你要做三遍；第一遍，我会先示范一个动作，这时候，你要认真观察！然后由你自己单独做第一遍！第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致！第三遍，由你自己单独展示一遍，我会观察你做得好不好。</translation>
+            <translation type="obsolete">我会示范一些动作，你需要模仿我。每一个动作，你要做三遍；第一遍，我会先示范一个动作，这时候，你要认真观察！然后由你自己单独做第一遍！第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致！第三遍，由你自己单独展示一遍，我会观察你做得好不好。</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/no</name>
+        <message>
+            <source>这样呀！那我就长话短说吧！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这样呀！那我就长话短说吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/sayHi</name>
+        <message>
+            <source>你好，我是清华大学人机交互实验室的机器人！很高兴见到你！你可以叫我小闹，也可以直接叫我NAO。请问需要我介绍一下自己么？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">你好，我是清华大学人机交互实验室的机器人！很高兴见到你！你可以叫我小闹，也可以直接叫我NAO。请问需要我介绍一下自己么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/s大声一点</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/yesSelf</name>
+        <message>
+            <source>我是一个人工智能机器人，我可以，听懂你说话，看懂你的动作，能够自然地和你交流！我还会唱歌跳舞！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">我是一个人工智能机器人，我可以，听懂你说话，看懂你的动作，能够自然地和你交流！我还会唱歌跳舞！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/danceLevel?</name>
+        <message>
+            <source>如果请你为自己的舞蹈水平打分，1代表完全不会跳舞，7代表水平很高，请问你为自己打几分？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">如果请你为自己的舞蹈水平打分，1代表完全不会跳舞，7代表水平很高，请问你为自己打几分？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/noAsk</name>
+        <message>
+            <source>哎呀，那我只好自己站起来了！请问你会跳舞吗？ </source>
+            <comment>Text</comment>
+            <translation type="obsolete">哎呀，那我只好自己站起来了！请问你会跳舞吗？ </translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/selfIntro</name>
+        <message>
+            <source>但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/taskDes</name>
+        <message>
+            <source>好的，今天我们的任务就是学习一些简单的舞蹈动作！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">好的，今天我们的任务就是学习一些简单的舞蹈动作！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/yesAsk</name>
+        <message>
+            <source>太好了！谢谢你！请问你会跳舞吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">太好了！谢谢你！请问你会跳舞吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/no</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这样呀！那我就长话短说吧！</source>
@@ -3180,7 +3327,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/sayHi</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/sayHi</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你好，我是清华大学人机交互实验室的机器人！很高兴见到你！你可以叫我小闹，也可以直接叫我NAO。请问需要我介绍一下自己么？</source>
@@ -3189,7 +3336,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/s大声一点</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/s大声一点</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
@@ -3198,7 +3345,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/R人脸识别/yesSelf</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/yesSelf</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>我是一个人工智能机器人，我可以，听懂你说话，看懂你的动作，能够自然地和你交流！我还会唱歌跳舞！</source>
@@ -3207,16 +3354,7 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/danceLevel?</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>如果请你为自己的舞蹈水平打分，1代表完全不会跳舞，7代表水平很高，请问你为自己打几分？</source>
-            <comment>Text</comment>
-            <translation type="unfinished">如果请你为自己的舞蹈水平打分，1代表完全不会跳舞，7代表水平很高，请问你为自己打几分？</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/noAsk</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_自我介绍/_如果说不好</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>哎呀，那我只好自己站起来了！请问你会跳舞吗？ </source>
@@ -3225,16 +3363,16 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/selfIntro</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_自我介绍/_如果说好</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？</source>
+            <source>太好了！谢谢你！请问你会跳舞吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？</translation>
+            <translation type="unfinished">太好了！谢谢你！请问你会跳舞吗？</translation>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/taskDes</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_自我介绍/_解释任务</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，今天我们的任务就是学习一些简单的舞蹈动作！</source>
@@ -3243,12 +3381,21 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/_实验前互动/Z自我介绍/yesAsk</name>
+        <name>behavior_1/behavior.xar:/_实验前互动/_自我介绍/_请求扶起</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>太好了！谢谢你！请问你会跳舞吗？</source>
+            <source>但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">太好了！谢谢你！请问你会跳舞吗？</translation>
+            <translation type="unfinished">但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/_自我介绍/_问舞蹈水平</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>如果请你为自己的舞蹈水平打分，1代表完全不会跳舞，7代表水平很高，请问你为自己打几分？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">如果请你为自己的舞蹈水平打分，1代表完全不会跳舞，7代表水平很高，请问你为自己打几分？</translation>
         </message>
     </context>
     <context>

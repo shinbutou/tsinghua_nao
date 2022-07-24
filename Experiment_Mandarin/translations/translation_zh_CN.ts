@@ -330,7 +330,16 @@
         </message>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>哎呀，这样呐！可是我还是得向你说明实验内容！</source>
+            <source>好的！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_开始热身</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>很好！我们先来练习一次吧！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -385,15 +394,6 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_实验介绍/start</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>很好！我们先来练习一次吧！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -754,6 +754,15 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，已经完成两遍了！最后一遍，你自己做一次！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>不好意思，麻烦你帮我调整一下位置可以吗？</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>

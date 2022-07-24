@@ -30,7 +30,7 @@
                 <BehaviorLayer name="behavior_layer1">
                   <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram scale="100">
-                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="1128" y="47">
+                      <Box name="Wait" id="13" localization="8" tooltip="Wait a moment before sending a signal on the output. &#x0A;Can be stopped anytime. &#x0A;Stimulating the input again before output is activated restarts the waiting period.&#x0A;" x="969" y="100">
                         <bitmap>media/images/box/wait.png</bitmap>
                         <script language="4">
                           <content>
@@ -70,7 +70,7 @@
                         <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                         <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently waiting and cancelled, output will be stimulated." id="6" />
                       </Box>
-                      <Box name="askIntro" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="68" y="120">
+                      <Box name="askIntro" id="3" localization="8" tooltip="Say some text with animations. The text can be localized." x="112" y="108">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -137,7 +137,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="expIntro" id="6" localization="8" tooltip="Say some text with animations. The text can be localized." x="270" y="62">
+                      <Box name="expIntro" id="6" localization="8" tooltip="Say some text with animations. The text can be localized." x="401" y="76">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -204,7 +204,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="animations/Stand/Gestures/Explain_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="expIntro (1)" id="8" localization="8" tooltip="Say some text with animations. The text can be localized." x="443" y="19">
+                      <Box name="expIntro (1)" id="8" localization="8" tooltip="Say some text with animations. The text can be localized." x="120" y="485">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -271,7 +271,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="animations/Stand/Gestures/Explain_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="expIntro (3)" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="602" y="348">
+                      <Box name="expIntro (3)" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="421" y="477">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -338,7 +338,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="animations/Stand/Gestures/Explain_4" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="yesAgain" id="15" localization="8" tooltip="Say some text with animations. The text can be localized." x="826" y="158">
+                      <Box name="yesAgain" id="15" localization="8" tooltip="Say some text with animations. The text can be localized." x="841" y="382">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -405,7 +405,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="noAgain" id="19" localization="8" tooltip="Say some text with animations. The text can be localized." x="848" y="321">
+                      <Box name="noAgain" id="19" localization="8" tooltip="Say some text with animations. The text can be localized." x="863" y="545">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -472,7 +472,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="no" id="1" localization="8" tooltip="Say some text with animations. The text can be localized." x="180" y="225">
+                      <Box name="no" id="1" localization="8" tooltip="Say some text with animations. The text can be localized." x="241" y="176">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -539,7 +539,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_2" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="start" id="28" localization="8" tooltip="Say some text. The text can be localized." x="993" y="166">
+                      <Box name="start" id="28" localization="8" tooltip="Say some text. The text can be localized." x="966" y="465">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -596,7 +596,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Text" inherits_from_parent="0" content_type="5" value="很好！我们先来练习一次吧！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="expIntro (2)" id="4" localization="8" tooltip="Say some text. The text can be localized." x="498" y="204">
+                      <Box name="expIntro (2)" id="4" localization="8" tooltip="Say some text. The text can be localized." x="267" y="479">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -653,7 +653,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Text" inherits_from_parent="0" content_type="5" value="第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="askAgain" id="2" localization="8" tooltip="Say some text. The text can be localized." x="669" y="145">
+                      <Box name="askAgain" id="2" localization="8" tooltip="Say some text. The text can be localized." x="568" y="352">
                         <bitmap>media/images/box/interaction/say.png</bitmap>
                         <script language="4">
                           <content>
@@ -710,7 +710,7 @@ class MyClass(GeneratedClass):
                         <Parameter name="Text" inherits_from_parent="0" content_type="5" value="我说清楚了吗？需要我再重复一遍吗？" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                         <Resource name="Speech" type="Lock" timeout="0" />
                       </Box>
-                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="740" y="471">
+                      <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="705" y="474">
                         <bitmap>media/images/box/movement/stand.png</bitmap>
                         <script language="4">
                           <content>
@@ -9618,7 +9618,7 @@ class MyClass(GeneratedClass):
                           <BehaviorLayer name="behavior_layer1">
                             <BehaviorKeyframe name="keyframe1" index="1">
                               <Diagram scale="141.421">
-                                <Box name="yesAsk" id="1" localization="8" tooltip="Say some text with animations. The text can be localized." x="280" y="25">
+                                <Box name="yesAsk" id="1" localization="8" tooltip="Say some text with animations. The text can be localized." x="396" y="54">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -9685,7 +9685,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="noAsk" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="279" y="168">
+                                <Box name="noAsk" id="9" localization="8" tooltip="Say some text with animations. The text can be localized." x="396" y="184">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -9752,7 +9752,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="animations/Stand/Gestures/Hey_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="danceLevel?" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="524" y="24">
+                                <Box name="danceLevel?" id="10" localization="8" tooltip="Say some text with animations. The text can be localized." x="524" y="54">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -9819,7 +9819,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="Stand/BodyTalk/BodyTalk_1" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="taskDes" id="11" localization="8" tooltip="Say some text with animations. The text can be localized." x="696" y="27">
+                                <Box name="taskDes" id="11" localization="8" tooltip="Say some text with animations. The text can be localized." x="652" y="54">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -9886,7 +9886,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Animation" inherits_from_parent="0" content_type="3" value="animations/Stand/Gestures/Hey_6" default_value="" custom_choice="0" tooltip="The animation to play" id="9" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="selfIntro" id="28" localization="8" tooltip="Say some text. The text can be localized." x="96" y="65">
+                                <Box name="selfIntro" id="28" localization="8" tooltip="Say some text. The text can be localized." x="99" y="119">
                                   <bitmap>media/images/box/interaction/say.png</bitmap>
                                   <script language="4">
                                     <content>
@@ -9943,7 +9943,7 @@ class MyClass(GeneratedClass):
                                   <Parameter name="Text" inherits_from_parent="0" content_type="5" value="但是，我的平衡能力还不够好，偶尔可能会摔倒！如果我摔倒了，你可以扶我起来么？" default_value="" tooltip="The text you want to say. Don&apos;t forget to translate it!" id="7" />
                                   <Resource name="Speech" type="Lock" timeout="0" />
                                 </Box>
-                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="123" y="233">
+                                <Box name="Stand Up" id="23" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="272" y="52">
                                   <bitmap>media/images/box/movement/stand.png</bitmap>
                                   <script language="4">
                                     <content>

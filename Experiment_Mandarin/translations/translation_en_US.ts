@@ -38,6 +38,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -95,9 +104,9 @@
         <name>behavior_1/behavior.xar:/_甩手臂_负面/_请调位置</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
+            <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3001,6 +3010,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_叉腰_正向/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3065,10 +3083,15 @@
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3538,6 +3561,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_左右手_正向/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3602,10 +3634,15 @@
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，麻烦你帮我调整一下位置可以吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">不好意思，麻烦你帮我调整一下位置可以吗？</translation>
+            <translation type="obsolete">不好意思，麻烦你帮我调整一下位置可以吗？</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3638,6 +3675,14 @@
             <source>那请你做一遍看看！</source>
             <comment>Text</comment>
             <translation type="obsolete">那请你做一遍看看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_请调位置</name>
+        <message>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3698,6 +3743,11 @@
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_甩手臂_负面/_请调位置</name>
+        <message>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
+        </message>
         <message>
             <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
@@ -3813,10 +3863,15 @@
     <context>
         <name>behavior_1/behavior.xar:/_练习动作/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，麻烦你帮我调整一下位置可以吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">不好意思，麻烦你帮我调整一下位置可以吗？</translation>
+            <translation type="obsolete">不好意思，麻烦你帮我调整一下位置可以吗？</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3955,6 +4010,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_迪斯可_负面/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/RAction/_问再一遍</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -4019,10 +4083,15 @@
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>

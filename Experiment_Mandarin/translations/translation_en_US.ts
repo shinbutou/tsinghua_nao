@@ -2,114 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en_US">
     <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/2Second</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>还是我们一起做一遍吧！请看好我的动作！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">还是我们一起做一遍吧！请看好我的动作！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/3Third</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>再做一次试试看！最后一遍了！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">再做一次试试看！最后一遍了！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_再做一遍</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>好的，那我再做一次给你看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_请再一遍</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>那请你做一遍看看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">那请你做一遍看看！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_请调位置</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>你可以帮我调整一下位置吗？</source>
-            <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/RAction/_问再一遍</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>看清楚了么？需要我再做一遍么？</source>
-            <comment>Text</comment>
-            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/_再说一次</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>对不起，我好像没有听清楚！请大声一点！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/_别害羞</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，试试看！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">别害羞，试试看！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/_继续</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>谢谢你！我们可以继续了！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/_要求重新做</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>这样不可以，再认真做一次！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">这样不可以，再认真做一次！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/_认真一点</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>别害羞，再做一次看看！要认真一点喔！</source>
-            <comment>Text</comment>
-            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/_甩手臂_负面/_请调位置</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>你可以帮我调整一下位置吗？</source>
-            <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
-        </message>
-    </context>
-    <context>
         <name>behavior_1/behavior.xar:/1正式动作/1Positive/Feedback</name>
         <message>
             <source>­	对，就是这样的！接下来，我们一起做一遍吧！</source>
@@ -2893,6 +2785,607 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/2Second</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>已经做完一遍了，第二遍，我们一起做！跟上我的动作！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">已经做完一遍了，第二遍，我们一起做！跟上我的动作！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/3Third</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>已经完成两遍了，你再最后做一遍吧！我会认真观察你的动作！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">已经完成两遍了，你再最后做一遍吧！我会认真观察你的动作！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_再说一次</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，请重新做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">这样不可以，请重新做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那请你做一遍试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那请你做一遍试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_问再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_再说一次</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_别害羞</name>
+        <message>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_继续</name>
+        <message>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_要求重新做</name>
+        <message>
+            <source>这样不可以，请重新做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这样不可以，请重新做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_认真一点</name>
+        <message>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/2Second</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>第二遍，我们一起再做一次，跟上我的动作！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">第二遍，我们一起再做一次，跟上我的动作！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/3Third</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>最后一次了！再试一次看看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">最后一次了！再试一次看看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_再说一次</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">这样不可以，再认真做一次！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那请你做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那请你做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_问再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_再说一次</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_别害羞</name>
+        <message>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_继续</name>
+        <message>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_要求重新做</name>
+        <message>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这样不可以，再认真做一次！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_认真一点</name>
+        <message>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/2Second</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>接下来是第二遍，我们一起做！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">接下来是第二遍，我们一起做！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/3Third</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这个动作的最后一遍，你自己完成！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">这个动作的最后一遍，你自己完成！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_再说一次</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，再重新做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">这样不可以，再重新做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>那接下来请你做一遍！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">那接下来请你做一遍！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_问再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_再说一次</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_别害羞</name>
+        <message>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_继续</name>
+        <message>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_要求重新做</name>
+        <message>
+            <source>这样不可以，再重新做一次吧！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这样不可以，再重新做一次吧！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_认真一点</name>
+        <message>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/2Second</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>还是我们一起做一遍吧！请看好我的动作！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">还是我们一起做一遍吧！请看好我的动作！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/3Third</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>再做一次试试看！最后一遍了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">再做一次试试看！最后一遍了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_再做一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>好的，那我再做一次给你看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_再说一次</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_别害羞</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_继续</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_要求重新做</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">这样不可以，再认真做一次！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_认真一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_请再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>那请你做一遍看看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">那请你做一遍看看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_问再一遍</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_再说一次</name>
+        <message>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_别害羞</name>
+        <message>
+            <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_继续</name>
+        <message>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_要求重新做</name>
+        <message>
+            <source>这样不可以，再认真做一次！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">这样不可以，再认真做一次！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_认真一点</name>
+        <message>
+            <source>别害羞，再做一次看看！要认真一点喔！</source>
+            <comment>Text</comment>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_再说一次</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -2976,73 +3469,65 @@
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/2Second</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>已经做完一遍了，第二遍，我们一起做！跟上我的动作！</source>
             <comment>Text</comment>
-            <translation type="unfinished">已经做完一遍了，第二遍，我们一起做！跟上我的动作！</translation>
+            <translation type="obsolete">已经做完一遍了，第二遍，我们一起做！跟上我的动作！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/3Third</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>已经完成两遍了，你再最后做一遍吧！我会认真观察你的动作！</source>
             <comment>Text</comment>
-            <translation type="unfinished">已经完成两遍了，你再最后做一遍吧！我会认真观察你的动作！</translation>
+            <translation type="obsolete">已经完成两遍了，你再最后做一遍吧！我会认真观察你的动作！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/RAction/_再做一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/RAction/_请再一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那请你做一遍试试看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那请你做一遍试试看！</translation>
+            <translation type="obsolete">好的，那请你做一遍试试看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/RAction/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/RAction/_问再一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_再说一次</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
             <comment>Text</comment>
-            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_别害羞</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，试试看！</translation>
+            <translation type="obsolete">别害羞，试试看！</translation>
         </message>
     </context>
     <context>
@@ -3056,28 +3541,25 @@
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_继续</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
-            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_要求重新做</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这样不可以，请重新做一次吧！</source>
             <comment>Text</comment>
-            <translation type="unfinished">这样不可以，请重新做一次吧！</translation>
+            <translation type="obsolete">这样不可以，请重新做一次吧！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_叉腰_正向/_认真一点</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，再做一次看看！要认真一点喔！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
         </message>
     </context>
     <context>
@@ -3088,10 +3570,9 @@
             <translation type="obsolete">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3112,10 +3593,15 @@
             <translation type="unfinished">好的，那我们现在开始可以么？</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>哎呀，这样呐！可是我还是得向你说明实验内容！</source>
             <comment>Text</comment>
-            <translation type="unfinished">哎呀，这样呐！可是我还是得向你说明实验内容！</translation>
+            <translation type="obsolete">哎呀，这样呐！可是我还是得向你说明实验内容！</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>哎呀！这样呐？那我就简短的介绍一下吧！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">哎呀！这样呐？那我就简短的介绍一下吧！</translation>
         </message>
     </context>
     <context>
@@ -3527,73 +4013,65 @@
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/2Second</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>接下来是第二遍，我们一起做！</source>
             <comment>Text</comment>
-            <translation type="unfinished">接下来是第二遍，我们一起做！</translation>
+            <translation type="obsolete">接下来是第二遍，我们一起做！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/3Third</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这个动作的最后一遍，你自己完成！</source>
             <comment>Text</comment>
-            <translation type="unfinished">这个动作的最后一遍，你自己完成！</translation>
+            <translation type="obsolete">这个动作的最后一遍，你自己完成！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/RAction/_再做一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/RAction/_请再一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>那接下来请你做一遍！</source>
             <comment>Text</comment>
-            <translation type="unfinished">那接下来请你做一遍！</translation>
+            <translation type="obsolete">那接下来请你做一遍！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/RAction/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/RAction/_问再一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_再说一次</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
             <comment>Text</comment>
-            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_别害羞</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，试试看！</translation>
+            <translation type="obsolete">别害羞，试试看！</translation>
         </message>
     </context>
     <context>
@@ -3607,28 +4085,25 @@
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_继续</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
-            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_要求重新做</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这样不可以，再重新做一次吧！</source>
             <comment>Text</comment>
-            <translation type="unfinished">这样不可以，再重新做一次吧！</translation>
+            <translation type="obsolete">这样不可以，再重新做一次吧！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_左右手_正向/_认真一点</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，再做一次看看！要认真一点喔！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
         </message>
     </context>
     <context>
@@ -3639,10 +4114,18 @@
             <translation type="obsolete">不好意思，麻烦你帮我调整一下位置可以吗？</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
         </message>
     </context>
     <context>
@@ -3958,10 +4441,18 @@
     <context>
         <name>behavior_1/behavior.xar:/_请继续</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
-            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_请调位置</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>你可以帮我调整一下位置吗？</source>
+            <comment>Text</comment>
+            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
@@ -3976,73 +4467,65 @@
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/2Second</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>第二遍，我们一起再做一次，跟上我的动作！</source>
             <comment>Text</comment>
-            <translation type="unfinished">第二遍，我们一起再做一次，跟上我的动作！</translation>
+            <translation type="obsolete">第二遍，我们一起再做一次，跟上我的动作！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/3Third</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>最后一次了！再试一次看看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">最后一次了！再试一次看看！</translation>
+            <translation type="obsolete">最后一次了！再试一次看看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/RAction/_再做一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那我再做一次给你看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那我再做一次给你看！</translation>
+            <translation type="obsolete">好的，那我再做一次给你看！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/RAction/_请再一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>好的，那请你做一次吧！</source>
             <comment>Text</comment>
-            <translation type="unfinished">好的，那请你做一次吧！</translation>
+            <translation type="obsolete">好的，那请你做一次吧！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/RAction/_请调位置</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/RAction/_问再一遍</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
             <comment>Text</comment>
-            <translation type="unfinished">看清楚了么？需要我再做一遍么？</translation>
+            <translation type="obsolete">看清楚了么？需要我再做一遍么？</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/_再说一次</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
             <comment>Text</comment>
-            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/_别害羞</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，试试看！</translation>
+            <translation type="obsolete">别害羞，试试看！</translation>
         </message>
     </context>
     <context>
@@ -4056,28 +4539,25 @@
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/_继续</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
-            <translation type="unfinished">谢谢你！我们可以继续了！</translation>
+            <translation type="obsolete">谢谢你！我们可以继续了！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/_要求重新做</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>这样不可以，再认真做一次！</source>
             <comment>Text</comment>
-            <translation type="unfinished">这样不可以，再认真做一次！</translation>
+            <translation type="obsolete">这样不可以，再认真做一次！</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/_迪斯可_负面/_认真一点</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，再做一次看看！要认真一点喔！</source>
             <comment>Text</comment>
-            <translation type="unfinished">别害羞，再做一次看看！要认真一点喔！</translation>
+            <translation type="obsolete">别害羞，再做一次看看！要认真一点喔！</translation>
         </message>
     </context>
     <context>
@@ -4088,10 +4568,9 @@
             <translation type="obsolete">不好意思，NAO看不到你了！你可以帮我调整一下位置吗？</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>你可以帮我调整一下位置吗？</source>
             <comment>Text</comment>
-            <translation type="unfinished">你可以帮我调整一下位置吗？</translation>
+            <translation type="obsolete">你可以帮我调整一下位置吗？</translation>
         </message>
     </context>
     <context>

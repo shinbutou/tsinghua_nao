@@ -63,6 +63,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_继续</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -117,6 +126,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[C] 叉腰/_请调位置</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -166,6 +184,15 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>别害羞，试试看！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -288,6 +315,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_继续</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -337,6 +373,15 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -396,6 +441,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_继续</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -445,6 +499,15 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>看清楚了么？需要我再做一遍么？</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -844,6 +907,15 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>我们先来做一个热身动作，请看我的示范！</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_感谢调整</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>谢谢你！我们可以继续了！</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>

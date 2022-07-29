@@ -2830,6 +2830,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[C] 叉腰/RAction/_感谢调整</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -2906,6 +2915,15 @@
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
             <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[C] 叉腰/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
@@ -2996,6 +3014,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[D] 迪斯可/RAction/_感谢调整</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3072,6 +3099,15 @@
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
             <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[D] 迪斯可/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
@@ -3162,6 +3198,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[M] 左右手/RAction/_感谢调整</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3238,6 +3283,15 @@
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
             <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[M] 左右手/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
@@ -3328,6 +3382,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/[S] 甩手臂/RAction/_感谢调整</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3404,6 +3467,15 @@
             <source>别害羞，试试看！</source>
             <comment>Text</comment>
             <translation type="obsolete">别害羞，试试看！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/[S] 甩手臂/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
@@ -3648,6 +3720,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_实验介绍/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_实验介绍/_如说不需要</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3744,10 +3825,15 @@
     <context>
         <name>behavior_1/behavior.xar:/_实验介绍/_解说二</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</source>
             <comment>Text</comment>
-            <translation type="unfinished">第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</translation>
+            <translation type="obsolete">第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致呀！</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致哦！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">第二遍，我们俩一起同时做一遍这个动作，要注意和我保持一致哦！</translation>
         </message>
     </context>
     <context>
@@ -3903,6 +3989,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/no</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -3923,10 +4018,9 @@
     <context>
         <name>behavior_1/behavior.xar:/_实验前互动/_人脸识别/s大声一点</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>对不起，我好像没有听清楚！请大声一点！</source>
             <comment>Text</comment>
-            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
+            <translation type="obsolete">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
@@ -3936,6 +4030,15 @@
             <source>我是一个人工智能机器人，我可以，听懂你说话，看懂你的动作，能够自然地和你交流！我还会唱歌跳舞！</source>
             <comment>Text</comment>
             <translation type="unfinished">我是一个人工智能机器人，我可以，听懂你说话，看懂你的动作，能够自然地和你交流！我还会唱歌跳舞！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_实验前互动/_自我介绍/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>
@@ -4341,6 +4444,15 @@
             <source>我们先来做一个热身动作，请看我的示范！</source>
             <comment>Text</comment>
             <translation type="unfinished">我们先来做一个热身动作，请看我的示范！</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/_练习动作/_大声一点</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>对不起，我好像没有听清楚！请大声一点！</source>
+            <comment>Text</comment>
+            <translation type="unfinished">对不起，我好像没有听清楚！请大声一点！</translation>
         </message>
     </context>
     <context>

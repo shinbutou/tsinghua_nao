@@ -3,4 +3,3 @@ The repository is dedicated to the degree thesis project at Tsinghua University,
 
 The experiment recruited one-hundred-and-twenty-eight participants in total. The participants were divided into two cultural subgroups, an eastern and a western one. The western cultural subgroup is defined as those whose country of origins are either North America or European countries. The participants are students recruited from Tsinghua University. Those that are in the Chinese cultural subgroup are all Chinese nationals. The western cultural subgroup consisted of participants whose country of origin. The project was completed with the assistance of , who completed half of the total experiments.
 
-The research project is submitted

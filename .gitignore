@@ -1,2 +1,11 @@
 # macOS files
 *.DS_Store
+
+# private data
+/data_analysis/data/participant
+/data_analysis/data/before.csv
+/data_analysis/data/participant_demographic.csv
+/data_analysis/data/after_raw.xlsx
+/data_analysis/data/after.xlsx
+/data_analysis/data/before_raw.xlsx
+/data_analysis/data/before.xlsx
